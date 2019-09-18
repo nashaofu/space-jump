@@ -8,9 +8,11 @@
 		"newFeature": true
 	},
 	"compileType": "game",
-	"libVersion": "game",
+	"libVersion": "2.8.2",
 	"appid": "wx999d1932d6e7c276",
 	"projectname": "space-jump",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
 			"current": -1,
