@@ -1,4 +1,5 @@
 # space-jump
+
 涂鸦跳跃微信小游戏版
 
 ## 源码文件说明
@@ -36,4 +37,7 @@
 ```
 
 ## 游戏视屏
+
 [![游戏视频](./bilibili.png)](https://player.bilibili.com/player.html?aid=33636622&cid=58889727&page=1)
+
+## 源码解读
